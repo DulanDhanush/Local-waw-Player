@@ -80,7 +80,9 @@ MP3 format support using external libraries
 👨‍💻 Author
 
 Dulan Dhanush Kandeepan
-Aspiring Software Engineer | Tech Enthusiast
+
+Aspiring Software Engineer 
+| Tech Enthusiast
 
 
 LinkedIn Profile
