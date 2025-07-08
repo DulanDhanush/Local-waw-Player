@@ -14,6 +14,7 @@ public class Player {
 
         String filepath;
 
+        System.out.print("----Started Player---- ");
         System.out.print("Enter full path to your .wav file: ");
         filepath = scanner.nextLine().replace("\\", "\\\\");
 
